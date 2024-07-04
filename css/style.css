@@ -251,7 +251,7 @@ body {
 }
 
 .feature-content {
-    width: 90%;
+    width: 80%;
     height: 1150px;
     margin: auto;
     overflow: hidden;
@@ -259,10 +259,10 @@ body {
 
 .feature-item {
     float: left;
-    width: 29%;
+    width: 30%;
     margin: auto;
     margin: 0px 0px 40px 50px;
-    padding: 52px;
+    padding: 60.7px;
     position: relative;
 }
 
