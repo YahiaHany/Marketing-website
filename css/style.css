@@ -259,10 +259,10 @@ body {
 
 .feature-item {
     float: left;
-    width: 28%;
+    width: 29%;
     margin: auto;
     margin: 0px 0px 40px 50px;
-    padding: 60.7px;
+    padding: 52px;
     position: relative;
 }
 
@@ -350,7 +350,7 @@ body {
 }
 
 .the-offer {
-    width: 27%;
+    width: 30%;
     float: left;
     margin: auto;
     margin-bottom: 50px;
